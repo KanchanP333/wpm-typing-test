@@ -18,7 +18,7 @@ A terminal-based typing speed test application built with Python and curses. Tes
 
 ![Start Screen](wpm-typing-test/wpmPicture1.png)
 
-![Typing in Progress](wpm-typing-test/wpmPicture1.png)
+![Typing in Progress](wpm-typing-test/wpmPicture2.png)
 
 ---
 
